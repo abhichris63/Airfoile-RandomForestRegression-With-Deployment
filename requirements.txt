@@ -1,0 +1,13 @@
+pickle
+flask
+request
+app
+jsonify
+numpy
+pandas
+gunicorn # It just like interaction with web server
+Jinja2
+Werkzeug
+scipy
+scikit-learn
+matplotlib
