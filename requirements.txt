@@ -1,13 +1,9 @@
-pickle
 flask
-request
-app
-jsonify
-numpy
-pandas
-gunicorn # It just like interaction with web server
+gunicorn
 Jinja2
 Werkzeug
+numpy
+pandas
 scipy
 scikit-learn
 matplotlib
